@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lolendor.github.io/sitemap.xml
+Sitemap: https://lolendor.github.io/compressorio/sitemap.xml
